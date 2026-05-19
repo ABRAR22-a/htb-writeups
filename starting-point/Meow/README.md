@@ -20,6 +20,9 @@ I logged in as root.
 
 
 
+![Telnet](screenshots/telnet.png)
+
+
 ## Flag
 
 ![flag](screenshots/flag.png) 
