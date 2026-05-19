@@ -17,7 +17,7 @@ I used Nmap to scan the target for open ports.
 I connected to the Telnet service because port 23 was open.
 I logged in as root.
 
-![telnet](screenshots/telnet.png)
+
 
 
 ## Flag
